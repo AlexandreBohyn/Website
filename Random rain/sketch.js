@@ -21,7 +21,7 @@ function draw() {
   noStroke();
   fill(col.r, col.g, col.b, 75);
   ellipse(dot.x, dot.y, 25, 25);
-  if (frameCount > 500) {
+  if (frameCount > 300) {
     background(0);
     frameCount = 0
   }
