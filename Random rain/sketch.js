@@ -10,7 +10,7 @@ var col = {
 
 function setup() {
   createCanvas(500, 300);
-  background(0);
+  background(1);
 }
 
 function draw() {

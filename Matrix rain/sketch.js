@@ -17,6 +17,7 @@ function setup() {
 
 function draw() {
   background(0, 150);
+  console.log(frameCount);
   streams.forEach(function(stream) {
     stream.render();
   })
