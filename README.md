@@ -1,10 +1,17 @@
-## Welcome to my website.
+## README file with the necessary instructions
+A markdown cheatsheet is available [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on Github.
 
-### Matrix green rain screen
-
-### Random red rain
-
-
+### Command line
+To launch the command line use windowd + R and input
+```
+cmd
+```
+To launche the visual code editor from the cmd use
+```
+code [filename]
+```
+in the right directory. 
+All available options are available [here](https://code.visualstudio.com/docs/editor/command-line) 
 ### Setup
 
 #### Ceate a new project with all the p5 libraries:
